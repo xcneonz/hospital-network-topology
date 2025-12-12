@@ -10,10 +10,10 @@ The network connects four specialized medical branches across different location
 
 | Branch | Function | Key Responsibilities |
 | :--- | :--- | :--- |
-| **Putrajaya** (Optic Centre) | LAN Design, VLSM, IoT | RFID System, Fire Alarm System, Static IP |
-| **Bukit Jalil** (Pharmacy) | Clinic LAN | Wired/Wireless Access, DHCP Configuration |
-| **Kuala Lumpur** (Surgical) | Hybrid Topology | Access Point Setup, IP Addressing Scheme |
-| **Bangsar** (WAN Hub) | WAN Connectivity | WAN Mesh Design, Public IPs, Dynamic Routing (RIPv2) |
+| **Optic Centre**  | LAN Design, VLSM, IoT | RFID System, Fire Alarm System, Static IP |
+| **Pharmacy**  | Clinic LAN | Wired/Wireless Access, DHCP Configuration |
+| **Surgical Centre** | Hybrid Topology | Access Point Setup, IP Addressing Scheme |
+| **Main Hospital** | WAN Connectivity | WAN Mesh Design, Public IPs, Dynamic Routing (RIPv2) |
 
 
 ## Network Features
