@@ -8,12 +8,12 @@ The project simulates a solid network connecting four distinct hospital branches
 
 The network connects four specialized medical branches across different locations. Each branch features a custom LAN topology tailored to its operational needs.
 
-   Branch        |         Functions 
-
-Optic Centre    | LAN Design, VLSM, IoT (RFID, Fire System) 
-Pharmacy        | Wired/Wireless LAN, DHCP Configuration |
-Surgical Centre | Hybrid Topology, Access Point Setup, IP Scheme |
-Main Hospita  l | WAN Mesh Design, Public IPs, Dynamic Routing (RIPv2) |
+| Branch | Function | Key Responsibilities |
+| :--- | :--- | :--- |
+| **Putrajaya** (Optic Centre) | LAN Design, VLSM, IoT | RFID System, Fire Alarm System, Static IP |
+| **Bukit Jalil** (Pharmacy) | Clinic LAN | Wired/Wireless Access, DHCP Configuration |
+| **Kuala Lumpur** (Surgical) | Hybrid Topology | Access Point Setup, IP Addressing Scheme |
+| **Bangsar** (WAN Hub) | WAN Connectivity | WAN Mesh Design, Public IPs, Dynamic Routing (RIPv2) |
 
 
 ## Network Features
